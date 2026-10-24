@@ -1,15 +1,18 @@
+
 # Commercial Bellini B&W Reversal Manual
 ## Tailored for the B's Processor & Jobo Expert Drum 3006 System
 
-This technical operations manual outlines the steps for processing exactly **two sheets of Ilford Delta 100 5x7 Sheet Film** (or 4x5) as high-contrast positive transparencies using the pre-packaged **Bellini B&W Reversal Film Processing Kit (1-Liter)**. 
+This technical operations manual outlines the steps for processing **Ilford Delta 100 5x7 Sheet Film** as high-contrast positive transparencies using the pre-packaged **Bellini B&W Reversal Film Processing Kit (1-Liter)**. 
 
-Continuous automated rotary mechanics on a **B's Processor tabletop base** maximize chemical efficiency. Because the Jobo 3006 drum features smaller internal cylinders and lower rotational volume demands than the larger 3005, you can safely run a **250 ml batch volume** per run without risking highlight starvation, uneven processing waves, or chemical exhaustion for two sheets.
+Continuous automated rotary mechanics on a **B's Processor tabletop base** maximize chemical efficiency. Because the Jobo 3006 drum features narrower internal cylinders and a lower mechanical fluid floor (**210 ml**) than the 3005 (**270 ml**), chemical volumes can be scaled precisely to the sheet count being processed.
 
 ---
 
 ## Table of Contents
 1. [Kit Components & Sourcing Metrics](#1-kit-components--sourcing-metrics)
-2. [Targeted 250ml Mixing Matrix (1+4 & Wash Aid Dilutions)](#2-targeted-250ml-mixing-matrix-14--wash-aid-dilutions)
+2. [Targeted Mixing Matrices (1+4 & Wash Aid Dilutions)](#2-targeted-mixing-matrices-14--wash-aid-dilutions)
+   * [2A. 250ml Matrix — 2 Sheets (Economical Batch)](#2a-250ml-matrix--2-sheets-economical-batch)
+   * [2B. 450ml Matrix — 6 Sheets (Full Drum Load)](#2b-450ml-matrix--6-sheets-full-drum-load)
 3. [B's Processor & Jobo 3006 Hardware Configuration](#3-bs-processor--jobo-3006-hardware-configuration)
 4. [Step-by-Step Rotary Processing Workflow](#4-step-by-step-rotary-processing-workflow)
 5. [Troubleshooting Matrix](#5-troubleshooting-matrix)
@@ -43,13 +46,14 @@ This workflow utilizes the liquid chemical concentrates found within the standar
 
 ---
 
-## 2. Targeted 250ml Mixing Matrix (1+4 & Wash Aid Dilutions)
+## 2. Targeted Mixing Matrices (1+4 & Wash Aid Dilutions)
 
-The Jobo Expert Drum 3006 has a mechanical minimum fluid floor of **210 ml**. Using **250 ml** provides adequate active chemical depth across both loaded cylinders while maintaining an essential thermal buffer against ambient room cooling on an unjacketed roller base. 
+The Jobo Expert Drum 3006 has a mechanical minimum fluid floor of **210 ml**. Chemistry volumes must be selected based on total emulsion area to avoid active ingredient exhaustion during the critical First Developer stage.
 
-A 250 ml batch requires an exact **1:4 ratio** (50 ml concentrate to 200 ml water), maximizing economy and yielding exactly 4 runs from a 1-liter Bellini kit.
+*Always mix working solutions with room-temperature distilled water.*
 
-*Always use room-temperature distilled water for mixing.*
+### 2A. 250ml Matrix — 2 Sheets (Economical Batch)
+For 2 sheets of 5x7 film (70 sq. in.), **250 ml** exceeds the drum’s 210 ml physical floor, offers a thermal buffer against unjacketed roller cooling, and yields exactly 4 runs per 1-liter kit.
 
 | Processing Step Sequence | Concentrate Volume | Distilled Water Volume | Total Working Volume |
 | :--- | :--- | :--- | :--- |
@@ -63,72 +67,92 @@ A 250 ml batch requires an exact **1:4 ratio** (50 ml concentrate to 200 ml wate
 
 ---
 
+### 2B. 450ml Matrix — 6 Sheets (Full Drum Load)
+A full run of 6 sheets of 5x7 film equals **210 square inches** of emulsion area (equivalent to 2.5 rolls of 120 film). While 210 ml can physically coat the cylinders, 210 ml of a 1+4 mix contains only 42 ml of First Developer concentrate—insufficient to fully bleach and reduce that volume of silver without highlight exhaustion. 
+
+Scaling to **450 ml** (90 ml concentrate + 360 ml water) satisfies both physical drum coverage and the chemical capacity required for full reversal development.
+
+| Processing Step Sequence | Concentrate Volume | Distilled Water Volume | Total Working Volume |
+| :--- | :--- | :--- | :--- |
+| **1. First Developer** | 90 ml | 360 ml | **450 ml** |
+| **2. Reversal Bleach** | 90 ml | 360 ml | **450 ml** |
+| **3. Clearing Bath** | 90 ml | 360 ml | **450 ml** |
+| **4. Reversal Bath** | 90 ml | 360 ml | **450 ml** |
+| **5. Second Developer** | 90 ml | 360 ml | **450 ml** |
+| **6. Rapid Liquid Fixer** | 90 ml | 360 ml | **450 ml** |
+| **7. Ilford Wash Aid (HCA) (1+4)** | 90 ml | 360 ml | **450 ml** |
+
+---
+
 ## 3. B's Processor & Jobo 3006 Hardware Configuration
 
-*   **Wheel Setup:** **Smooth wheels only.** Do not use textured or wobble wheels. While the 3006 is lighter and narrower than the 3005, wobble wheels cause axial bouncing that leads to roller slippage and uneven chemistry travel along the length of the sheet.
-*   **Drum Loading Geometry:** The 3006 has six distinct internal cylinders. When loading **two sheets**, insert them into **opposing cylinders directly across from one another** (e.g., Slot 1 and Slot 4). This guarantees rotational symmetry and prevents the drum from vibrating or wobbling off the drive wheels.
-*   **Orientation:** Curl 5x7 film along the 7" dimension (emulsion facing inward toward the center of the drum).
-*   **Operational Mode Selection:** Use **Mode 1 (Pulse / Alternating Direction)** for all developer, reversal, and fixer stages. Bidirectional agitation prevents directional development drag around sheet perimeters.
-*   **External Temperature Maintenance:** Because the B's Processor lacks an integrated water jacket, keep working-solution bottles resting in a temperature-controlled water bath (Sous Vide circulator set to 20°C / 68°F) until the exact second of pouring.
-*   **Dynamic Funnel Pouring:** Always introduce solutions through the lid funnel **while the drum is spinning on the motorized base**. Never pour chemistry into a stationary drum.
+*   **Wheel Setup:** **Smooth wheels only.** Do not use wobble wheels. The 3006 drum will bounce axially, risking drive-wheel slippage and localized surge marks.
+*   **Chamber Loading Configuration:**
+    *   **For 2 Sheets:** Load sheets into opposing slots directly across from each other (e.g., Slot 1 and Slot 4) to ensure dynamic balance on the rollers.
+    *   **For 6 Sheets:** Load all six cylinders with emulsion facing inward toward the center. Ensure all sheets sit fully seated against the bottom stop of each tube.
+*   **Agitation Mode:** Use **Mode 1 (Pulse / Alternating Rotation)** for all developer, reversal, and fixer cycles to disrupt continuous laminar flow along sheet borders.
+*   **External Temperature Maintenance:** Because the B's Processor operates in open air without a water jacket, keep chemical bottles submerged in a 20°C (68°F) water bath right until pouring.
+*   **Dynamic Funnel Pouring:** Always introduce fluids into the lid aperture while the drum is actively rotating on the roller base. Never pour into a stationary drum.
 
 ---
 
 ## 4. Step-by-Step Rotary Processing Workflow
 
 *   **Film Emulsion:** Ilford Delta 100 Sheet Film (5x7) exposed at **ISO 100**.
-*   **Target Processing Temperature:** All working solutions and rinses held strictly at **20°C (68°F)**.
+*   **System Processing Temperature:** All solutions and intermediate wash rinses maintained at **20°C (68°F)**.
 
 | Step | Chemical Agent | Processing Time | Agitation Style | Processing Function / Mechanics |
 | :--- | :--- | :--- | :--- | :--- |
-| **1** | Distilled Water Pre-Wash | **4:00 mins** | Mode 1 (Pulse) | Pre-wets the emulsion and stabilizes internal plastic temperature. |
-| **2** | First Developer (1+4 Mix) | **10:45 mins** | Mode 1 (Pulse) | Continuous rotary agitation; fully develops initial negative image. |
-| **3** | Water Flush | 1:30 mins | Mode 1 (Pulse) | Rapid double fill-and-dump cycle to arrest development. |
-| **4** | Bellini Reversal Bleach | 5:00 mins | Mode 1 (Pulse) | Completely dissolves the developed metallic negative silver. |
-| **5** | Water Flush | 1:30 mins | Mode 1 (Pulse) | Dual fill-and-drain cycles to remove residual acid bleach. |
-| **6** | Bellini Clearing Bath | 3:00 mins | Mode 1 (Pulse) | Destroys brown manganese stain and initiates magenta dye removal. |
-| **7** | Water Flush | 2:00 mins | Mode 1 (Pulse) | Thorough chemical rinse step. |
-| **8** | Bellini Reversal Bath | 3:00 mins | Mode 1 (Pulse) | **One-Shot Chemical Fogging.** Preps remaining silver halides. |
-| **9** | Water Flush | 1:00 min | Mode 1 (Pulse) | Removes excess tin ions before entering high-pH developer. |
-| **10**| Second Developer (1+4 Mix)| 6:00 mins | Mode 1 (Pulse) | Reduces all fogged silver to create dense positive D-Max. |
+| **1** | Distilled Water Pre-Wash | **4:00 mins** | Mode 1 (Pulse) | Pre-wets emulsion and thermalizes the drum plastic. |
+| **2** | First Developer (1+4 Mix) | **10:45 mins** | Mode 1 (Pulse) | Continuous rotary agitation; fully develops initial negative. |
+| **3** | Water Flush | 1:30 mins | Mode 1 (Pulse) | Rapid double fill-and-dump cycle to halt development. |
+| **4** | Bellini Reversal Bleach | 5:00 mins | Mode 1 (Pulse) | Fully dissolves developed negative metallic silver. |
+| **5** | Water Flush | 1:30 mins | Mode 1 (Pulse) | Dual fill-and-drain cycles to remove acidic bleach. |
+| **6** | Bellini Clearing Bath | 3:00 mins | Mode 1 (Pulse) | Destroys brown manganese stain; initiates dye removal. |
+| **7** | Water Flush | 2:00 mins | Mode 1 (Pulse) | Chemical purification rinse. |
+| **8** | Bellini Reversal Bath | 3:00 mins | Mode 1 (Pulse) | **One-Shot Chemical Fogging.** Fogs remaining halides. |
+| **9** | Water Flush | 1:00 min | Mode 1 (Pulse) | Flushes residual tin ions. |
+| **10**| Second Developer (1+4 Mix)| 6:00 mins | Mode 1 (Pulse) | Reduces fogged silver to build dense maximum black (D-Max). |
 | **11**| Water Flush | 1:00 min | Mode 1 (Pulse) | Halts second developer activity. |
-| **12**| Bellini Rapid Liquid Fixer | 5:00 mins | Mode 1 (Pulse) | Clears any unexposed residual halides and stabilizes the base. |
-| **13**| Water Rinse | 1:00 min | Mode 1 (Pulse) | Flushes residual fixer prior to clearing aid. |
-| **14**| **Ilford Wash Aid (HCA 1+4)** | **3:00 mins** | Mode 1 (Pulse) | **Targeted Magenta Extraction.** Clears stubborn anti-halation backing dye. |
-| **15**| Final Archival Wash | **5:00 mins** | Mode 1 (Pulse) | Accelerated archival wash (drain and refill every 60 seconds). |
+| **12**| Bellini Rapid Liquid Fixer | 5:00 mins | Mode 1 (Pulse) | Clears unexposed residual silver; hardens emulsion. |
+| **13**| Water Rinse | 1:00 min | Mode 1 (Pulse) | Flushes fixer prior to wash aid. |
+| **14**| **Ilford Wash Aid (HCA 1+4)** | **3:00 mins** | Mode 1 (Pulse) | **Targeted Magenta Extraction.** Clears T-grain backing dye. |
+| **15**| Final Archival Wash | **5:00 mins** | Mode 1 (Pulse) | Drain and refill with clean water every 60 seconds. |
+
+*Note for 6 Sheets:* When running a full load of 6 sheets, the wash flushes (Steps 3, 5, 7, 13, and 15) must use larger water volumes (approx. 500–600 ml per flush) to quickly purge chemistry from all six tubes.
 
 ---
 
 ## 5. Troubleshooting Matrix
 
-### Problem: Muddy, veil-covered highlights instead of clean, transparent base.
-*   **Root Cause:** Drum was too cold during initial development, or rotational speed was insufficient to fully replenish exhausted First Developer at the sheet surface.
-*   **Remedy:** Ensure the 4-minute pre-wash is tempered accurately to 20°C to heat the drum core. Extend First Developer time by 30 seconds on subsequent runs.
+### Problem: Muddy, veiled highlights instead of a clear base.
+*   **Root Cause:** First development was under-active due to low temperature or insufficient active developer capacity across the loaded surface area.
+*   **Remedy:** Verify pre-wash was at 20°C for a full 4 minutes. If processing 6 sheets, ensure you mixed the full 450 ml volume (90 ml concentrate) so the developer did not exhaust prematurely.
 
-### Problem: Weak, thin positives lacking deep maximum density (D-Max).
-*   **Root Cause:** The First Developer was over-active (over-temperature), or the Reversal Bath (Bottle 4) oxidized before use.
-*   **Remedy:** Verify processing temperature with a calibrated stem thermometer. Never leave diluted Reversal Bath sitting in an open beaker for longer than 30 minutes before pouring.
+### Problem: Thin, washed-out positive lacking deep shadow blacks (D-Max).
+*   **Root Cause:** First Developer ran over-temperature, or the mixed Reversal Bath (Bottle 4) degraded due to oxygen exposure prior to pouring.
+*   **Remedy:** Keep Reversal Bath tightly sealed until pouring. Do not let mixed Reversal Bath sit open in a graduate for more than 30 minutes.
 
-### Problem: Horizontal banding or density lines along one edge.
-*   **Root Cause:** Fluid was poured while the drum was static, allowing chemistry to pool across the sheet before the rollers engaged.
-*   **Remedy:** Always pour while the drum is actively turning on the rollers (dynamic pour).
+### Problem: Localized streaks or lines across one end of the sheet.
+*   **Root Cause:** Solution was poured while the drum was stationary on the rollers, allowing liquid to pool before rotation started.
+*   **Remedy:** Always pour chemistry while the drum is actively rotating on the B's Processor.
 
-### Problem: Emulsion retains a distinct purple/magenta tint after drying.
-*   **Root Cause:** Incomplete extraction of Delta 100 sensitizing and anti-halation backing dyes.
-*   **Remedy:** Do not skip the Ilford Wash Aid step. If the tint remains noticeable, extend the Wash Aid step to 5 minutes, or apply an alkaline rinse (1 drop household ammonia per 500 ml distilled water) for 45 seconds prior to the final wash.
+### Problem: Transparencies exhibit a persistent pink or purple tint.
+*   **Root Cause:** Anti-halation backing dyes were not fully cleared from the Delta 100 emulsion.
+*   **Remedy:** Extend the Ilford Wash Aid step to 5 minutes, or introduce a brief alkaline rinse (1 drop household ammonia per 500 ml distilled water) for 45 seconds before the final wash.
 
 ---
 
 ## 6. Safe Handling & Darkroom Environmental Disposal
 
-*   **Acidic Bleach & Neutralization:** The potassium permanganate bleach is acidic and corrosive. Mix spent bleach and spent clearing bath together in a waste jug before disposal to neutralize remaining permanganate ions.
-*   **Silver Recovery:** Collect all spent First Developer, Second Developer, and Rapid Fixer into an dedicated waste jug for proper municipal hazardous waste disposal or metallic silver reclamation. Never pour photographic fixer down domestic drain systems.
-*   **PPE:** Always wear nitrile gloves and protective eyewear when measuring and pouring chemical concentrates, particularly the First Developer and concentrated Bleach.
+*   **Bleach & Clearing Bath Neutralization:** The potassium permanganate bleach is acidic and corrosive. Mix spent bleach and spent clearing bath together in a waste jug before disposal to neutralize residual permanganate.
+*   **Silver Recovery & Collection:** Retain spent First Developer, Second Developer, and Rapid Fixer in dedicated waste containers for hazardous waste drop-off or silver reclamation. Do not pour photographic fixer into municipal sewage drains.
+*   **PPE:** Always wear nitrile gloves and chemical splash goggles when handling raw concentrates, particularly the caustic First Developer and concentrated Bleach.
 
 ---
 
 ## 7. Transit, Travel, & Pelican Case Storage Protocols
 
-*   **Lid Maintenance:** Use the **Jobo 3360 foot pump** or manual air wedge to separate the drum lid. Never pry the edge with metal tools or screwdrivers, which will damage the beveled sealing lip and cause fluid leaks.
-*   **Drum Drying:** After the final wash, remove sheets immediately. Dry the internal cylinders completely with a clean micro-fiber cloth mounted on the Jobo 3008 drying rod before packing. Never store an Expert drum sealed with internal moisture.
-*   **Transit Packing:** When placing the 3006 inside hard transit cases (such as a Pelican 1510/1600), store the drum horizontally supported by custom pick-and-pluck foam cradles, or vertically with the reinforced base flat against the bottom. Never pack heavy objects directly on top of the outer shell.
+*   **Lid Removal:** Use a **Jobo 3360 foot pump** or manual air wedge to separate the lid. Never pry the edge with metal screwdrivers or blades, which will score the sealing surface and create permanent leaks.
+*   **Drying:** Remove sheets immediately after the final wash. Wipe internal cylinders dry with a lint-free microfiber cloth wrapped around a Jobo 3008 drying rod before sealing the drum. Never store drums wet.
+*   **Transit Packing:** In hard cases (e.g., Pelican 1510 or 1600), cradle the 3006 horizontally in pick-and-pluck foam or sit it vertically with the reinforced foot flat against the bottom base. Never place heavy gear on top of the outer cylinder walls.
